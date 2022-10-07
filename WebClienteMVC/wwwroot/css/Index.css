@@ -1,0 +1,58 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+}
+
+.container {
+    padding: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.content {
+    border: 1px solid #000;
+    border-radius: 8px;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 14px;
+    color: #1767ca;
+    margin-bottom: 25px;
+}
+
+table {
+    border: 1px solid #000;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th {
+    font-weight: bold;
+}
+
+td,
+th {
+    padding: 10px;
+}
+
+.btn-success {
+    background-color: green;
+}
+
+.btn-danger {
+    background-color: red;
+}
+
+.btn {
+    padding: 5px 15px;
+    border-radius: 4px;
+    color: #fff;
+}
+
+.col {
+    background-color: #ccc;
+}
